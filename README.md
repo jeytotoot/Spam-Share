@@ -1,23 +1,23 @@
 # Auto_Share_Tool
 
-# Assalamu Alaikum 
+# Jey Ondajare
 
 # Free Tools Enjoy
 
 ------------------------------
 
-`@apt update`
+`apt update`
 
-`@apt upgrade`
+`apt upgrade`
 
-`@apt install git`
+`apt install git`
 
-`@pip install pyfiglet`
+`pip install pyfiglet`
 
-`@pip install toilet`
+`pip install toilet`
 
-`@git clone https://github.com/D4rk-B0y/Auto_Share.git`
+`git clone https://github.com/jeytotoot/Spam-Share.git`
 
-`@cd Auto_Share`
+`@cd Spam-Share`
 
-`@python share-pro.py`
+`@python spamshare.py`
