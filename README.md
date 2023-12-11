@@ -18,6 +18,6 @@
 
 `git clone https://github.com/jeytotoot/Spam-Share.git`
 
-`@cd Spam-Share`
+`cd Spam-Share`
 
-`@python spamshare.py`
+`python SpamShare.py`
